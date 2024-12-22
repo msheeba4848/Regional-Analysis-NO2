@@ -66,3 +66,9 @@ The analysis highlights the regional disparities and temporal trends in NO2 emis
 3. Execute the R scripts for data cleaning and statistical analysis.
 4. Use Python scripts for visualizations.
 5. Review the generated plots and results.
+
+---
+
+## License
+
+This project is licensed under an **All Rights Reserved** license. Unauthorized use, distribution, or modification of the code is strictly prohibited. For inquiries or permission requests, please contact [sm3924@georgetown.edu or msheeba00@gmail.com].
